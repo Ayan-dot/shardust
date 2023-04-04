@@ -2,7 +2,7 @@
 
 ## Shardust - A distributed and thread-safe key-value cache service (fully in memory!)
 
-[`shardust`] is a distributed cache service using etcd as a key-value store and providing distributed caching out-of-box. The current iteration allows for locally hosted cache servers sharded by key; this can be scaled bidirectionally in the future. For information with regards to how it works, please contact ayan.hafeez@uwaterloo.ca
+[`shardust`] is a distributed cache service using [`etcd`] as a key-value store and providing distributed caching out-of-box. The current iteration allows for locally hosted cache servers sharded by key; this can be scaled bidirectionally in the future. For information with regards to how it works, please contact ayan.hafeez@uwaterloo.ca
 
 Do note [`shardust`] is a work in progress; functionality is implemented regularly. 
 
