@@ -6,5 +6,7 @@
 
 Do note [`shardust`] is a work in progress; functionality is implemented regularly. 
 
+![](https://github/com/Ayan-dot/shardust/blob/main/.github/assets/shardust_sys_design.png)
+
 ![integrate](https://github.com/ayan-dot/shardust/actions/workflows/integrate.yml/badge.svg)
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
