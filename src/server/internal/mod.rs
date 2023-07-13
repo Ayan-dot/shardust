@@ -1,1 +1,2 @@
-mod lru;
+pub mod bfilter;
+pub mod lru;
